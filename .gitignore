@@ -1,0 +1,7 @@
+__pycache__/
+.env/
+.vscode/
+*.pyc
+.DS_Store
+data/raw/promoters.data
+.DS_Store
