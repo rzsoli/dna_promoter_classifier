@@ -167,7 +167,7 @@ keras-tuner
 ## Usage
 
 1. Ensure the dataset file `data/promoters.data` is in the correct path
-2. Run the Jupyter notebook `promoter_detection copy.ipynb`
+2. Run the Jupyter notebook `promoter_detection.ipynb`
 3. The notebook will:
    - Load and preprocess the data
    - Train multiple models with hyperparameter tuning
